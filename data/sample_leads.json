@@ -1,0 +1,65 @@
+[
+  {
+    "id": "lead-001",
+    "name": "Carlos Silva",
+    "company": "TechSolutions Brasil",
+    "position": "Diretor de Tecnologia",
+    "email": "carlos.silva@techsolutions.com.br",
+    "phone": "+55 11 98765-4321",
+    "source": "LinkedIn",
+    "last_interaction": "2025-04-10",
+    "interactions": [
+      "Email enviado em 2025-04-10",
+      "Resposta recebida em 2025-04-12",
+      "Chamada telefônica em 2025-04-15"
+    ],
+    "company_size": "Médio porte (100-500 funcionários)",
+    "industry": "Tecnologia da Informação",
+    "budget_info": "Disponibilizou R$ 250.000 para projetos de automação no próximo trimestre",
+    "is_decision_maker": true,
+    "needs": "Busca automatizar processos internos e reduzir custos operacionais em 30%",
+    "timeline": "Implementação desejada nos próximos 3 meses",
+    "notes": "Demonstrou interesse específico em soluções de IA para atendimento ao cliente"
+  },
+  {
+    "id": "lead-002",
+    "name": "Ana Ferreira",
+    "company": "Varejo Express",
+    "position": "Gerente de Marketing",
+    "email": "ana.ferreira@varejoexpress.com.br",
+    "phone": "+55 21 99876-5432",
+    "source": "Webinar",
+    "last_interaction": "2025-04-05",
+    "interactions": [
+      "Participou do webinar em 2025-04-05",
+      "Email de acompanhamento enviado em 2025-04-06"
+    ],
+    "company_size": "Grande porte (mais de 1000 funcionários)",
+    "industry": "Varejo",
+    "budget_info": "Mencionou restrições orçamentárias até o próximo ano fiscal",
+    "is_decision_maker": false,
+    "needs": "Interesse em melhorar a experiência do cliente e aumentar taxas de conversão",
+    "timeline": "Sem prazo definido, possivelmente no próximo ano",
+    "notes": "Precisa de aprovação do Diretor de Marketing para avançar nas discussões"
+  },
+  {
+    "id": "lead-003",
+    "name": "Roberto Mendes",
+    "company": "Construtech",
+    "position": "CEO",
+    "email": "roberto@construtech.com.br",
+    "phone": "+55 31 98888-7777",
+    "source": "Indicação",
+    "last_interaction": "2025-04-18",
+    "interactions": [
+      "Primeira chamada em 2025-04-18"
+    ],
+    "company_size": "Pequeno porte (20-50 funcionários)",
+    "industry": "Construção Civil",
+    "budget_info": "Orçamento de R$ 100.000 aprovado para digitalização de processos",
+    "is_decision_maker": true,
+    "needs": "Precisa digitalizar processos de gestão de projetos e equipes em campo",
+    "timeline": "Quer implementar em 1-2 meses",
+    "notes": "Empresa em rápido crescimento, planejando expandir para três novos estados"
+  }
+]

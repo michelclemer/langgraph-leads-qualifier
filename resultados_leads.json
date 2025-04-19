@@ -1,0 +1,76 @@
+{
+  "prioritized_leads": [
+    {
+      "id": "lead-003",
+      "name": "Roberto Mendes",
+      "company": "Construtech",
+      "qualification": {
+        "budget_score": 1,
+        "authority_score": 1,
+        "need_score": 1,
+        "timeline_score": 1,
+        "reasoning": "Budget: O lead possui um or\u00e7amento aprovado de R$ 100.000 especificamente para a digitaliza\u00e7\u00e3o de processos, o que indica que h\u00e1 fundos dispon\u00edveis para a solu\u00e7\u00e3o proposta. Authority: Roberto Mendes \u00e9 o CEO da empresa, o que lhe confere autoridade m\u00e1xima e poder de decis\u00e3o no processo de compra. Need: A necessidade de digitalizar processos de gest\u00e3o de projetos e equipes em campo \u00e9 clara e espec\u00edfica, e nossa solu\u00e7\u00e3o pode atender a essa demanda. Timeline: O lead deseja implementar a solu\u00e7\u00e3o em 1-2 meses, o que demonstra um prazo definido e urgente para a implementa\u00e7\u00e3o.",
+        "overall_score": 1.0,
+        "tier": "hot"
+      },
+      "prioritization": {
+        "priority_score": 0.88,
+        "priority_level": "alta",
+        "factors": {
+          "qualification_score": 1.0,
+          "recency_score": 1.0,
+          "engagement_score": 0.4
+        }
+      },
+      "recommended_approach": "1. **Assunto de Email Personalizado:**\n   \"Roberto, vamos impulsionar a Construtech com solu\u00e7\u00f5es digitais inovadoras\"\n\n2. **Pontos Principais a Serem Abordados na Primeira Intera\u00e7\u00e3o:**\n   - **Compreens\u00e3o das Necessidades Espec\u00edficas:** Discuta como a digitaliza\u00e7\u00e3o pode otimizar a gest\u00e3o de projetos e equipes em campo, focando nos desafios espec\u00edficos que Roberto enfrenta atualmente.\n   - **Solu\u00e7\u00f5es Personalizadas:** Apresente solu\u00e7\u00f5es espec\u00edficas que atendam \u00e0s necessidades de digitaliza\u00e7\u00e3o da Construtech, destacando como essas solu\u00e7\u00f5es se alinham com o or\u00e7amento aprovado de R$ 100.000.\n   - **Benef\u00edcios de Curto e Longo Prazo:** Explique os benef\u00edcios imediatos da implementa\u00e7\u00e3o (melhoria na efici\u00eancia e redu\u00e7\u00e3o de erros) e os ganhos a longo prazo (suporte \u00e0 expans\u00e3o para novos estados).\n   - **Experi\u00eancia e Casos de Sucesso:** Compartilhe exemplos de sucesso de outras empresas de constru\u00e7\u00e3o civil que passaram por transforma\u00e7\u00f5es digitais semelhantes.\n\n3. **Obje\u00e7\u00f5es Potenciais e Como Responder a Elas:**\n   - **Custo da Implementa\u00e7\u00e3o:** Se houver preocupa\u00e7\u00f5es sobre custos adicionais, explique a efici\u00eancia do investimento e como ele se pagar\u00e1 atrav\u00e9s de economias e melhoria da produtividade.\n   - **Tempo de Implementa\u00e7\u00e3o:** Caso Roberto esteja preocupado com o prazo de 1-2 meses, apresente um plano de implementa\u00e7\u00e3o faseado que garanta m\u00ednimo impacto nas opera\u00e7\u00f5es di\u00e1rias.\n   - **Adapta\u00e7\u00e3o da Equipe:** Se houver resist\u00eancia interna, ofere\u00e7a treinamento e suporte cont\u00ednuo para garantir que a equipe adote as novas ferramentas rapidamente.\n\n4. **Pr\u00f3ximos Passos Recomendados:**\n   - **Agendar uma Reuni\u00e3o de Demonstra\u00e7\u00e3o:** Marque uma data para uma demonstra\u00e7\u00e3o personalizada das solu\u00e7\u00f5es propostas, mostrando na pr\u00e1tica como elas atender\u00e3o \u00e0s necessidades da Construtech.\n   - **Enviar uma Proposta Detalhada:** Ap\u00f3s a reuni\u00e3o, envie uma proposta detalhada que inclua escopo, cronograma e custos envolvidos.\n   - **Acompanhamento P\u00f3s-Reuni\u00e3o:** Programe uma liga\u00e7\u00e3o de acompanhamento para discutir quaisquer perguntas ou ajustes necess\u00e1rios na proposta.\n   - **Estabelecer um Cronograma de Implementa\u00e7\u00e3o:** Assim que a proposta for aprovada, trabalhe com Roberto para definir um cronograma de implementa\u00e7\u00e3o detalhado, alinhado com os objetivos de expans\u00e3o da empresa."
+    },
+    {
+      "id": "lead-001",
+      "name": "Carlos Silva",
+      "company": "TechSolutions Brasil",
+      "qualification": {
+        "budget_score": 1,
+        "authority_score": 1,
+        "need_score": 1,
+        "timeline_score": 1,
+        "reasoning": "Budget: Carlos Silva disponibilizou R$ 250.000 para projetos de automa\u00e7\u00e3o no pr\u00f3ximo trimestre, o que indica que h\u00e1 or\u00e7amento dispon\u00edvel para investir em solu\u00e7\u00f5es de automa\u00e7\u00e3o, possivelmente incluindo IA para atendimento ao cliente. Authority: Como Diretor de Tecnologia, Carlos \u00e9 o tomador de decis\u00e3o, o que lhe confere total autoridade no processo de compra. Need: A necessidade de automatizar processos internos e reduzir custos operacionais em 30% \u00e9 clara e espec\u00edfica, e solu\u00e7\u00f5es de IA para atendimento ao cliente podem atender a essa necessidade. Timeline: O prazo de implementa\u00e7\u00e3o desejado \u00e9 nos pr\u00f3ximos 3 meses, o que \u00e9 um prazo definido e relativamente curto, indicando urg\u00eancia e prioridade no projeto.",
+        "overall_score": 1.0,
+        "tier": "hot"
+      },
+      "prioritization": {
+        "priority_score": 0.84,
+        "priority_level": "alta",
+        "factors": {
+          "qualification_score": 1.0,
+          "recency_score": 0.6,
+          "engagement_score": 0.8
+        }
+      },
+      "recommended_approach": "1. **Assunto de Email Personalizado:**\n   \"Carlos, descubra como a IA pode transformar o atendimento ao cliente da TechSolutions Brasil\"\n\n2. **Pontos Principais a Serem Abordados na Primeira Intera\u00e7\u00e3o:**\n   - **Introdu\u00e7\u00e3o e Reconhecimento:** Agrade\u00e7a por seu interesse e por j\u00e1 ter interagido anteriormente. Reconhe\u00e7a o papel de Carlos como Diretor de Tecnologia e sua influ\u00eancia nas decis\u00f5es estrat\u00e9gicas da empresa.\n   - **Solu\u00e7\u00f5es Personalizadas:** Destaque como as solu\u00e7\u00f5es de automa\u00e7\u00e3o e IA oferecidas pela sua empresa podem atender \u00e0s necessidades espec\u00edficas da TechSolutions Brasil, especialmente na \u00e1rea de atendimento ao cliente.\n   - **Benef\u00edcios Tang\u00edveis:** Enfatize como as solu\u00e7\u00f5es podem ajudar a reduzir custos operacionais em 30%, alinhando-se com os objetivos de Carlos.\n   - **Experi\u00eancia e Cases de Sucesso:** Compartilhe exemplos de sucesso em empresas de m\u00e9dio porte na ind\u00fastria de tecnologia da informa\u00e7\u00e3o que implementaram solu\u00e7\u00f5es semelhantes.\n   - **Prazo de Implementa\u00e7\u00e3o:** Reafirme a capacidade de implementar a solu\u00e7\u00e3o dentro do prazo desejado de 3 meses.\n\n3. **Obje\u00e7\u00f5es Potenciais e Como Responder a Elas:**\n   - **Custo:** Se Carlos expressar preocupa\u00e7\u00f5es sobre o custo, destaque o ROI potencial e como a redu\u00e7\u00e3o de custos e a melhoria da efici\u00eancia podem justificar o investimento.\n   - **Integra\u00e7\u00e3o com Sistemas Existentes:** Se houver preocupa\u00e7\u00f5es sobre integra\u00e7\u00e3o, explique como a solu\u00e7\u00e3o \u00e9 compat\u00edvel com a maioria dos sistemas existentes e como sua equipe oferece suporte total durante a implementa\u00e7\u00e3o.\n   - **Seguran\u00e7a de Dados:** Se houver preocupa\u00e7\u00f5es com seguran\u00e7a, destaque as medidas de seguran\u00e7a robustas de suas solu\u00e7\u00f5es e o compromisso com a conformidade com as normas de prote\u00e7\u00e3o de dados.\n   - **Complexidade de Implementa\u00e7\u00e3o:** Caso haja receios sobre a complexidade, ofere\u00e7a um plano de implementa\u00e7\u00e3o detalhado e suporte cont\u00ednuo.\n\n4. **Pr\u00f3ximos Passos Recomendados:**\n   - **Agendar uma Demonstra\u00e7\u00e3o:** Convide Carlos para uma demonstra\u00e7\u00e3o ao vivo das solu\u00e7\u00f5es de IA, focando em casos de uso relevantes para a TechSolutions Brasil.\n   - **Proposta Detalhada:** Prepare uma proposta personalizada que aborde todas as necessidades e preocupa\u00e7\u00f5es discutidas, incluindo um cronograma de implementa\u00e7\u00e3o.\n   - **Reuni\u00e3o de Follow-up:** Agende uma reuni\u00e3o de follow-up para discutir quaisquer d\u00favidas ap\u00f3s a demonstra\u00e7\u00e3o e revisar a proposta.\n   - **Visita T\u00e9cnica (se aplic\u00e1vel):** Ofere\u00e7a a possibilidade de uma visita t\u00e9cnica para melhor compreender a infraestrutura atual da empresa e ajustar a solu\u00e7\u00e3o proposta, se necess\u00e1rio."
+    },
+    {
+      "id": "lead-002",
+      "name": "Ana Ferreira",
+      "company": "Varejo Express",
+      "qualification": {
+        "budget_score": 0.3,
+        "authority_score": 0.2,
+        "need_score": 0.8,
+        "timeline_score": 0.4,
+        "reasoning": "Budget: Ana mencionou restri\u00e7\u00f5es or\u00e7ament\u00e1rias at\u00e9 o pr\u00f3ximo ano fiscal, indicando que h\u00e1 limita\u00e7\u00f5es financeiras no momento. Portanto, a pontua\u00e7\u00e3o \u00e9 0.3. Authority: Ana n\u00e3o \u00e9 a tomadora de decis\u00e3o final e precisa da aprova\u00e7\u00e3o do Diretor de Marketing, o que reduz sua autoridade no processo de compra. Assim, a pontua\u00e7\u00e3o \u00e9 0.2. Need: Ana demonstrou interesse em melhorar a experi\u00eancia do cliente e aumentar as taxas de convers\u00e3o, necessidades que nosso produto/servi\u00e7o pode atender. Isso resulta em uma pontua\u00e7\u00e3o de 0.8. Timeline: N\u00e3o h\u00e1 um prazo definido para a implementa\u00e7\u00e3o, mas h\u00e1 uma possibilidade de considera\u00e7\u00e3o no pr\u00f3ximo ano, o que d\u00e1 uma pontua\u00e7\u00e3o de 0.4.",
+        "overall_score": 0.45,
+        "tier": "cold"
+      },
+      "prioritization": {
+        "priority_score": 0.53,
+        "priority_level": "m\u00e9dia",
+        "factors": {
+          "qualification_score": 0.45,
+          "recency_score": 0.6,
+          "engagement_score": 0.6
+        }
+      },
+      "recommended_approach": "1. **Assunto de email personalizado:**\n   \"Estrat\u00e9gias Inovadoras para Transformar a Experi\u00eancia do Cliente na Varejo Express\"\n\n2. **Pontos principais a serem abordados na primeira intera\u00e7\u00e3o:**\n   - Agradecimento pela participa\u00e7\u00e3o no webinar e interesse demonstrado em melhorar a experi\u00eancia do cliente.\n   - Compartilhar insights ou tend\u00eancias recentes no setor de varejo que possam ser relevantes para a Varejo Express.\n   - Discutir solu\u00e7\u00f5es personalizadas que podem ajudar a aumentar as taxas de convers\u00e3o, destacando o impacto positivo em empresas de grande porte.\n   - Enfatizar a possibilidade de oferecer solu\u00e7\u00f5es escal\u00e1veis que se alinhem com as restri\u00e7\u00f5es or\u00e7ament\u00e1rias atuais.\n   - Mencionar a disponibilidade para discutir como essas solu\u00e7\u00f5es podem ser apresentadas ao Diretor de Marketing para aprova\u00e7\u00e3o.\n\n3. **Obje\u00e7\u00f5es potenciais e como responder a elas:**\n   - **Obje\u00e7\u00e3o: Restri\u00e7\u00f5es or\u00e7ament\u00e1rias at\u00e9 o pr\u00f3ximo ano fiscal.**\n     - Resposta: \"Entendemos as restri\u00e7\u00f5es or\u00e7ament\u00e1rias atuais e estamos prontos para trabalhar com voc\u00ea para encontrar solu\u00e7\u00f5es que possam ser implementadas gradualmente, permitindo resultados tang\u00edveis sem comprometer o or\u00e7amento atual.\"\n   \n   - **Obje\u00e7\u00e3o: N\u00e3o ser a principal tomadora de decis\u00e3o.**\n     - Resposta: \"Reconhecemos a import\u00e2ncia de envolver todas as partes interessadas. Podemos auxiliar na prepara\u00e7\u00e3o de uma apresenta\u00e7\u00e3o ou proposta detalhada que ajude a comunicar o valor de nossas solu\u00e7\u00f5es ao seu Diretor de Marketing.\"\n\n4. **Pr\u00f3ximos passos recomendados:**\n   - Agendar uma reuni\u00e3o de descoberta para entender melhor os desafios espec\u00edficos que a Varejo Express enfrenta e discutir solu\u00e7\u00f5es personalizadas.\n   - Oferecer um workshop ou demonstra\u00e7\u00e3o gratuita para a equipe de marketing, destacando como as solu\u00e7\u00f5es propostas podem ser integradas eficientemente.\n   - Identificar um plano de a\u00e7\u00e3o conjunto que inclua marcos potenciais e resultados esperados, preparando o terreno para uma proposta formal no pr\u00f3ximo ano fiscal.\n   - Manter contato regular para atualizar sobre novas tend\u00eancias e solu\u00e7\u00f5es, mantendo o interesse e engajamento de Ana Ferreira e sua equipe."
+    }
+  ]
+}
